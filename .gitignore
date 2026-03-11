@@ -3,3 +3,4 @@ __pycache__/
 .env
 venv/
 *.db
+data/proceseed/datos_limpios.csv
