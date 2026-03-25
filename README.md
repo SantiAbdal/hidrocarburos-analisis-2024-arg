@@ -23,6 +23,7 @@ Las preguntas que guían el análisis son:
 - Power BI Desktop
 
 ## Estructura del proyecto
+```
 hidrocarburos-analisis/
 │
 ├── analyses/
@@ -84,7 +85,8 @@ hidrocarburos-analisis/
 │
 ├── .gitignore
 └── README.md
-
+...
+```
 ## Dataset
 
 Los datos utilizados provienen del portal de datos abiertos del Ministerio de Energía de la Nación Argentina:
