@@ -85,7 +85,6 @@ hidrocarburos-analisis/
 │
 ├── .gitignore
 └── README.md
-...
 ```
 ## Dataset
 
