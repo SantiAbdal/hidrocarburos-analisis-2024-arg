@@ -3,4 +3,6 @@ __pycache__/
 .env
 venv/
 *.db
-data/proceseed/datos_limpios.csv
+data/raw/
+data/processed/2024/datos_limpios.csv
+data/processed/2025/datos_limpios.csv
